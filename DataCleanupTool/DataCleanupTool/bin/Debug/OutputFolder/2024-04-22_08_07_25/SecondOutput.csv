@@ -1,0 +1,33 @@
+﻿FileName,ProductName,Key,Value,Validation
+RV2_20240409_clothing_output_52_sudipta.json,B00XAEY1IK,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B0129F1THG,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00YXPN62C,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00A4E5I2M,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00QEJPDSA,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B004XUZNJ6,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00XM8N0B8,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00638M6IC,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00RDZS4GW,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B01G6U4W9M,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00IA76W1Q,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B0091W5K1W,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00COQH8E4,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B01DOOMGE6,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B01FLFK95O,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B0185VGAVI,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00KB7YO5E,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00JB1VDI2,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00TURYTHO,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B01C9RG5WI,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00ZAKR08U,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00B4NOQ7A,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B01EWBUNJ0,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B00KLM2OUG,Valid keys,Valid values,Valid
+RV2_20240409_clothing_output_52_sudipta.json,B015J73H2Q,imageUrlIndexes,Duplicate value found in imageUrlIndexes for product B015J73H2Q,Error
+RV2_20240409_clothing_output_52_sudipta.json,B0170DR67E,gender,Invalid gender value found in others in the B0170DR67E,Error
+RV2_20240409_clothing_output_52_sudipta.json,B01C9RH586,productTypes,Invalid property 'productTypes' found for product B01C9RH586,Error
+RV2_20240409_clothing_output_52_sudipta.json,B01C9RH586,imageUrlIndexes,Duplicate value found in imageUrlIndexes for product B01C9RH586,Error
+RV2_20240409_clothing_output_52_sudipta.json,B01DZWMUM0,agedGroup,Invalid property 'agedGroup' found for product B01DZWMUM0,Error
+RV2_20240409_clothing_output_52_sudipta.json,B019DDER76,imageUrlIndex,Invalid property 'imageUrlIndex' found for product B019DDER76,Error
+RV2_20240409_clothing_output_52_sudipta.json,B003YVPS0Y,ageGroup,Invalid ageGroup value found in parent in the B003YVPS0Y,Error
+RV2_20240409_clothing_output_52_sudipta.json,B01FV4LTMM,ageGroup,Invalid ageGroup value found in grandparent in the B01FV4LTMM,Error

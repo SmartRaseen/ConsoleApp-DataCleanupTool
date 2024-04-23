@@ -1,0 +1,83 @@
+{ "itemsForDeletion": [
+    "B00LU9KST8",
+    "B01H0Q2FAY",
+    "B01BQYR5S8",
+    "B00QW7A8TI",
+    "B01HH4AGYQ",
+    "B0157O6084",
+    "B01HGJH4Z6",
+    "B00410ZMAS",
+    "B0170DR68I",
+    "B00MO9PRWQ",
+    "B00MQBAO8O",
+    "B0058FD9ZA",
+    "B013UZ4U52",
+    "B00GBE9J6K",
+    "B00XKS7ICW"
+],
+"itemsToBeModified": {
+    "B00XAEY1IK": {},
+    "B0129F1THG": {},
+    "B00YXPN62C": {},
+    "B00A4E5I2M": {},
+    "B00QEJPDSA": {},
+    "B004XUZNJ6": {},
+    "B00XM8N0B8": {},
+    "B00638M6IC": {},
+    "B00RDZS4GW": {},
+    "B01G6U4W9M": {},
+    "B00IA76W1Q": {},
+    "B0091W5K1W": {},
+    "B00COQH8E4": {},
+    "B01DOOMGE6": {},
+    "B01FLFK95O": {},
+    "B0185VGAVI": {},
+    "B00KB7YO5E": {},
+    "B00JB1VDI2": {},
+    "B00TURYTHO": {},
+    "B01C9RG5WI": {},
+    "B00ZAKR08U": {},
+    "B00B4NOQ7A": {},
+    "B01EWBUNJ0": {},
+    "B00KLM2OUG":{},
+ "B015J73H2Q": {
+     "imageUrlIndexes": [1,2]
+    
+},
+    "B00N228HIU":{
+      "imageUrlIndexes": [1]
+    },
+    "B0170DR67E": {
+        "gender": "unisex",
+        "agrGroup": "baby"
+    },
+
+    "B01C9RH586": {
+        "imageUrlIndexes": [1,2]
+    },
+    "B01DZWMUM0": {
+        "imageUrlIndexes": [1,2,3]
+    },
+"B007TE1IU6": {},
+"B00U5Q19P4": {
+    "imageUrlIndexes": [0,2,3]
+},
+"B019DDER76": {
+    "imageUrlIndexes": [0,3]
+},
+"B00RM8EW2A": {},
+"B003YVPS0Y": {
+    "imageUrlIndexes": [1,2]
+},
+"B000I87M0U": {
+    "imageUrlIndexes": [0,1,2]
+},
+"B01FV4LTMM": {
+    "imageUrlIndexes": [0]
+},
+"B01GDQYN3O": {
+    "imageUrlIndexes": [0]
+}
+}
+
+}

@@ -1,0 +1,269 @@
+{
+  "itemsForDeletion": [
+    "B00JJWPS1G",
+    "B005MHH8R4",
+    "B01DDHOSTU",
+    "B00FZ5EFOM",
+    "B00NRS2C6M",
+    "B0033GQ6UG",
+    "B019UBUS6U",
+    "B00XIHII2O",
+    "B00TU847N4",
+    "B00IPR6RIE",
+    "B0176W30XS",
+    "B00J5KM2DY",
+    "B01727TB4O",
+    "B01FT058P2",
+    "B008YGSSM4",
+    "B00J5RMPSY",
+    "B00QVLIEXM",
+    "B01B9TEYTI",
+    "B01H4EM7NM",
+    "B00H4IQ7VW",
+    "B00W7FPGWI",
+    "B00Q0MCSSY",
+    "B00NUD82WC",
+    "B00L3K6R9E",
+    "B011S48DMS",
+    "B00WM4U2HS",
+    "B00AIQRWNE",
+    "B00LFWCZUU",
+    "B00KXEWDH6",
+    "B01EW4PC8Y",
+    "B00KYMKRRU",
+    "B01B3I2AIW",
+    "B00OTU6RRM",
+    "B00UKOY2E6",
+    "B0194AMEVE",
+    "B00Y827MXE",
+    "B00UJ95JTE",
+    "B01DIR6YR4",
+    "B00HM7VIGE",
+    "B01H6AIWC4",
+    "B00MG5WFV4",
+    "B00UI8EZMS",
+    "B00D7EOSPY",
+    "B015IE5YJY",
+    "B0144VASDO",
+    "B01FSYYMOC",
+    "B00KVMEY0E",
+    "B01HF165S2",
+    "B01C8HHP0A",
+    "B00A2UFEYA",
+    "B018WNZZWO",
+    "B00MH4W04G",
+    "B0175LC08G"
+  ],
+  "itemsToBeModified": {
+    "B01AX6J9IO": {},
+    "B00JBOOZ70": {},
+    "B00J06BXJM": {},
+    "B012JN9IWQ": {},
+    "B017R8ZTG2": {},
+    "B01DL1E5P0": {},
+    "B01DEC7SPA": {},
+    "B00MQS043C": {},
+    "B014I10MPY": {},
+    "B00KC3OEMA": {},
+    "B008R8111O": {},
+    "B015J8TOL8": {},
+    "B003YI09JW": {},
+    "B00E9EGE1W": {},
+    "B00HKGP2VY": {},
+    "B00RBUOVW0": {},
+    "B005LCLCDG": {},
+    "B017GSV61U": {},
+    "B00BXWZHCK": {},
+    "B00KD5I234": {},
+    "B00BNBWFNK": {},
+    "B01HDZ7UFW": {},
+    "B00CK5FC5G": {},
+    "B00CI5L4I2": {},
+    "B00HZKYP2M": {},
+    "B00CI5ZXW0": {},
+    "B01EOMILVO": {},
+    "B00MAKM1IC": {},
+    "B00CQ4EONC": {},
+    "B00JV451AU": {},
+    "B00K352YH4": {},
+    "B01FSVNV6U": {},
+    "B00OM86LZO": {},
+    "B01B6Y0BLG": {},
+    "B00JUGWJAO": {},
+    "B00FJAQL0O": {},
+    "B00K5KGEFU": {},
+    "B00USAMSHK": {},
+    "B009F0E4XA": {},
+
+    "B00WCE89QO": {
+      "productType": "shoes"
+    },
+    "B00W446TPA": {
+      "imageUrlIndexes": [0]
+    },
+    "B0155LM2TK": {
+      "ageGroup": "children"
+    },
+    "B01DMQF2CE": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00LOC3VGS": {
+      "imageUrlIndexes": [1, 2, 3]
+    },
+    "B00IW6A0OK": {
+      "imageUrlIndexes": [0],
+      "gender": "unisex"
+    },
+    "B00KRHGTQ0": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B013I2I0VC": {
+      "imageUrlIndexes": [0, 2],
+      "gender": "mens"
+    },
+    "B010EFO6L4": {
+      "productType": "bodysuit"
+    },
+    "B019378ZHA": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B01488WU9I": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B01DCKGBY8": {
+      "imageUrlIndexes": [1],
+      "ageGroup": "baby"
+    },
+    "B005GLL08O": {
+      "ageGroup": "toddler"
+    },
+    "B00KCW425U": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B010FJ8QF6": {
+      "imageUrlIndexes": [2],
+      "ageGroup": "baby"
+    },
+    "B00WTLG9MG": {
+      "imageUrlIndexes": [0]
+    },
+    "B00OGTQHF8": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B01FFKS8EY": {
+      "imageUrlIndexes": [1]
+    },
+    "B0034GXBN0": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00B4O2IOC": {
+      "imageUrlIndexes": [1]
+    },
+    "B00AFOMVM6": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00Y81WZO6": {
+      "imageUrlIndexes": [1]
+    },
+    "B00M7L8VEW": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00NJAQKIY": {
+      "imageUrlIndexes": [0]
+    },
+    "B00LOBYHSA": {
+      "imageUrlIndexes": [0]
+    },
+    "B01H3GKLWU": {
+      "imageUrlIndexes": [0, 1, 2]
+    },
+    "B00HK5FIQO": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B017416EHA": {
+      "imageUrlIndexes": [1]
+    },
+    "B018ECBL58": {
+      "imageUrlIndexes": [1, 3]
+    },
+    "B00NGGR6LQ": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B013XDAXIY": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B015NE4148": {
+      "imageUrlIndexes": [1, 3]
+    },
+    "B00A83AUWC": {
+      "imageUrlIndexes": [1]
+    },
+    "B018T72OP4": {
+      "imageUrlIndexes": [1]
+    },
+    "B0153NSD02": {
+      "imageUrlIndexes": [2, 3]
+    },
+    "B00JOTJXQK": {
+      "ageGroup": "teens"
+    },
+    "B01BYAJ3OS": {
+      "ageGroup": "children"
+    },
+    "B01BVYDJNI": {
+      "ageGroup": "teens"
+    },
+    "B01FV7BY42": {
+      "imageUrlIndexes": [0]
+    },
+    "B00M3LP33S": {
+      "imageUrlIndexes": [1]
+    },
+    "B00EJDWYYE": {
+      "imageUrlIndexes": [2]
+    },
+    "B00W4CEL66": {
+      "imageUrlIndexes": [1]
+    },
+    "B01CEMDDZA": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00MPFTMBQ": {
+      "imageUrlIndexes": [0]
+    },
+    "B00M7L5UVY": {
+      "imageUrlIndexes": [1]
+    },
+    "B00GUA0ENC": {
+      "imageUrlIndexes": [1]
+    },
+    "B00DMXLMKY": {
+      "imageUrlIndexes": [1]
+    },
+    "B01G2WW55W": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00X1CYQMM": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B002DYS3SM": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B017TQ6JXO": {
+      "imageUrlIndexes": [0, 1],
+      "ageGroup": "baby"
+    },
+    "B013PBPN0C": {
+      "imageUrlIndexes": [2]
+    },
+    "B015ZKO94W": {
+      "imageUrlIndexes": [1, 3]
+    },
+    "B013KC35BU": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B0188Y9ORE": {
+      "imageUrlIndexes": [0, 3]
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "itemsForDeletion": [
+    "B01BO1PUJO",
+    "B00HPZQGBK",
+    "B00VC340MS",
+    "B0175FF868",
+    "B00OCBU1R0",
+    "B00OCBU0ZS",
+    "B007WJHLMC",
+    "B00GJ3JJUE",
+    "B01GR9KF7U",
+    "B00MGLOID6",
+    "B00MOEX00M",
+    "B018QLY8IE",
+    "B00IMWX9SS",
+    "B00MGLOIEA",
+    "B00LS57YUA",
+    "B015ZXR22A",
+    "B00K75DOQU",
+    "B017NJSCYQ",
+    "B00MOD15PK",
+    "B017NJSCZ0",
+    "B018QLXTFC",
+    "B00MOGNVEK",
+    "B00LVFDO8S",
+    "B00ZR7966U",
+    "B017NJSCW8",
+    "B018QLXO0M",
+    "B00CMIAAMG",
+    "B00WV549TA",
+    "B00W79G5Z6",
+    "B005U5ANH0",
+    "B0195T4PZC",
+    "B00GXQVW0W",
+    "B00M7L6F5O",
+    "B01EYK6KXC",
+    "B019GQSW7G",
+    "B015RVKSOY",
+    "B00Q1QUDWW",
+    "B00LS57Z9U",
+    "B01916W5LA",
+    "B00CICNWUS",
+    "B01HBWKKWC",
+    "B00I8UPPKY",
+    "B006ZR32VQ",
+    "B00CICNYU6",
+    "B00CJ1E1IK",
+    "B00CICKVYS",
+    "B00D8VVII6",
+    "B004WF3J70",
+    "B00D8VDTF6",
+    "B017HGOELK"
+  ],
+  "itemsToBeModified": {
+    "B018UFOZD4": {},
+    "B00FIXRD0E": {},
+    "B00D9YFNTM": {},
+    "B006V3S6Y2": {},
+    "B00LAOPO88": {},
+    "B00OZCW4A8": {},
+    "B00P2W84E0": {},
+    "B00F2342EK": {},
+    "B00LUYNSMW": {},
+    "B013LXM2AS": {},
+    "B00BUMZX1I": {},
+    "B0065NE8ZE": {},
+    "B00IFG3BAM": {},
+    "B01GPS8SMC": {},
+    "B00C3QT6KE": {},
+    "B00BVBGTK2": {},
+    "B00YBY49LM": {},
+    "B00CB4LEDK": {},
+    "B01EMFJ7ES": {},
+    "B017HLVJRW": {},
+    "B00HPQIH5C": {},
+    "B01GDD163C": {},
+    "B01C41I4U0": {},
+    "B00E7879QO": {},
+    "B00GOKFYJC": {},
+    "B00ZP50BOU": {},
+    "B00WK5VPZC": {},
+    "B004HGS01Y": {},
+    "B00MGME3OE": {},
+    "B00Q5E83HW": {},
+    "B00IIVOO2S": {},
+    "B01HBP5J84": {},
+    "B01H6FD3I2": {},
+    "B005KRRWE0": {},
+    "B00X6MTFRI": {},
+    "B01GGDRFKC": {},
+    "B01DDYSQGO": {},
+    "B018URMNVS": {},
+    "B01FYPIHQO": {},
+    "B00WL2ECA4": {},
+    "B01A97W1D2": {},
+    "B01FNA6OT2": {},
+    "B018F3VYS0": {},
+    "B01B225RXO": {},
+    "B00IPPK3S6": {},
+    "B01FYPJ16E": {},
+    "B012BO2BP4": {},
+    "B00TA7J2W6": {},
+    "B00WL0MIHU": {},
+    "B00M23LI5O": {},
+    "B005Q8HCF2": {},
+
+    "B014XLGXQ6": {
+      "imageUrlIndexes": [0, 1, 3]
+    },
+    "B017WN6VX2": {
+      "productType": "dress"
+    },
+    "B00BNPO7L4": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B01F1NEY7K": {
+      "imageUrlIndexes": [0]
+    },
+    "B00OTAEJ3G": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00MOEDOI0": {
+      "imageUrlIndexes": [3],
+      "ageGroup": "toddler"
+    },
+    "B00FBINN8W": {
+      "imageUrlIndexes": [0]
+    },
+    "B01A0GMAJM": {
+      "imageUrlIndexes": [2]
+    },
+    "B00BNGWSBY": {
+      "imageUrlIndexes": [0]
+    },
+    "B00IO0W1AA": {
+      "imageUrlIndexes": [0, 2, 3]
+    },
+    "B00MA5VNYU": {
+      "imageUrlIndexes": [2]
+    },
+    "B0056LMI6C": {
+      "imageUrlIndexes": [1]
+    },
+    "B01FI7C3EU": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00LS57YVO": {
+      "imageUrlIndexes": [1]
+    },
+    "B01FQ99A5A": {
+      "imageUrlIndexes": [2]
+    },
+    "B00N6M2ZBQ": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00NPZLB0K": {
+      "imageUrlIndexes": [0, 3],
+      "ageGroup": "toddler"
+    },
+    "B00MM639IK": {
+      "imageUrlIndexes": [2]
+    },
+    "B01BCG4JAW": {
+      "imageUrlIndexes": [1]
+    },
+    "B003XY09L0": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00MH9OBRA": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00VD8VGNI": {
+      "imageUrlIndexes": [0, 1, 3]
+    },
+    "B00M2ALVEA": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00NGLGWUC": {
+      "productType": "pants"
+    },
+    "B00J815F02": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B009QX8UHM": {
+      "imageUrlIndexes": [1]
+    },
+    "B0010KQQV6": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00FUUX9OY": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00J815O6C": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00M2ALFUA": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00LOQID58": {
+      "imageUrlIndexes": [0, 3]
+    },
+    "B01DFQBKBI": {
+      "ageGroup": "teens"
+    },
+    "B01FP1FZBW": {
+      "imageUrlIndexes": [0, 2],
+      "ageGroup": "children"
+    },
+    "B00UXZF86I": {
+      "ageGroup": "children"
+    },
+    "B00LFVCXH6": {
+      "ageGroup": "teens"
+    },
+    "B00N46VEAM": {
+      "imageUrlIndexes": [0, 2],
+      "ageGroup": "children"
+    },
+    "B01EBEQX4M": {
+      "ageGroup": "teens"
+    },
+    "B01CJFVCQE": {
+      "ageGroup": "children"
+    },
+    "B01DL7I9GA": {
+      "productType": "shoes",
+      "ageGroup": "toddler"
+    },
+    "B01A6VFN6S": {
+      "imageUrlIndexes": [1]
+    },
+    "B00IK291QE": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B0106BMSHK": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B01ANFU7NQ": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00ZVH20H8": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00NPZLARY": {
+      "imageUrlIndexes": [2]
+    },
+    "B00SWPR8VO": {
+      "imageUrlIndexes": [1, 2, 3]
+    },
+    "B00BH47HEA": {
+      "imageUrlIndexes": [0]
+    },
+    "B00LVFDO8S": {
+      "imageUrlIndexes": [1]
+    },
+    "B00GU9VW8O": {
+      "imageUrlIndexes": [0, 2]
+    }
+  }
+}

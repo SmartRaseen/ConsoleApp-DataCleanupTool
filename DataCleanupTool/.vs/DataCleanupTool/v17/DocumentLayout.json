@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Programming_Language\\DataCleanupTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\new folder\\programming_language\\datacleanuptool\\datacleanuptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\Programming_Language\\DataCleanupTool\\DataCleanupTool\\Program.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\Program.cs",
+              "ToolTip": "D:\\New folder\\Programming_Language\\DataCleanupTool\\DataCleanupTool\\Program.cs",
+              "RelativeToolTip": "DataCleanupTool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:56:02.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

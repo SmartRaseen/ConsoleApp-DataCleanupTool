@@ -1,0 +1,233 @@
+{
+  "itemsForDeletion": [
+    "B00LWPFRX2",
+    "B01GPUQJYY",
+    "B00LWPFRRS",
+    "B0129BPL8I",
+    "B01GD0I7DC",
+    "B01A416UA8",
+    "B00EYU96FW",
+    "B01B8UZQLI",
+    "B00MXVUJ9Q",
+    "B01EW9ZGM6",
+    "B002P0KDUU",
+    "B015K4GE0U",
+    "B01AIH678S",
+    "B017P3QJAY",
+    "B01GCOLF8S",
+    "B01DXU8HJY",
+    "B00SKTDMBM",
+    "B00KHWAFQA",
+    "B00UT6MMQU",
+    "B01EN7L04K",
+    "B00WZ0QUZM",
+    "B019C52MUE",
+    "B018LVGY0Y",
+    "B01465CE3A",
+    "B0124OGRL0",
+    "B00QOW73PI",
+    "B00EM9CPXK",
+    "B018QCJ87E",
+    "B018SDAC6C",
+    "B018S6J1TI",
+    "B018S3Y9CU",
+    "B00J08TIHY",
+    "B00R6XCM5K",
+    "B01DWNJIGI",
+    "B01B427SGG",
+    "B00TA9SL44",
+    "B015RMP42O",
+    "B01CDOHEO0",
+    "B00MCD8L22",
+    "B00WDYVZ5U"
+  ],
+  "itemsToBeModified": {
+    "B00EZZFEWK": {},
+    "B00C9MN0TK": {},
+    "B015QX4Y16": {},
+    "B00SHFR3H8": {},
+    "B015T5ONI0": {},
+    "B00IT6GM4U": {},
+    "B01GIHPS9G": {},
+    "B018EU44AY": {},
+    "B00A1MNBKI": {},
+    "B00IUJ8J38": {},
+    "B010ILVCQQ": {},
+    "B01DET9NFG": {},
+    "B0170K16TQ": {},
+    "B00XJDTQ00": {},
+    "B01HH4E6OC": {},
+    "B00G2NGVJI": {},
+    "B0106NXW8W": {},
+    "B005GIG3UM": {},
+    "B00IAZ1LG4": {},
+    "B018J0KACA": {},
+    "B0035XU3BU": {},
+    "B00DUWUFPA": {},
+    "B0106NWPS0": {},
+    "B0170K11A0": {},
+    "B00LCZVL0K": {},
+    "B01DVITHUG": {},
+    "B01GSGTPMI": {},
+    "B00NP3CLHE": {},
+    "B00OBCSKVE": {},
+    "B01G0LV5Y2": {},
+    "B0127GT8XE": {},
+    "B01508O32C": {},
+    "B00VWTK52Q": {},
+    "B00V55FMCA": {},
+    "B00VWTKULW": {},
+    "B00J5R2DP4": {},
+    "B00KTKXVLG": {},
+    "B002PNLEMS": {},
+    "B01DYQOTSK": {},
+    "B013PXP6HU": {},
+    "B00P4E4P94": {},
+    "B01FI2Y80W": {},
+    "B017LHKI3I": {
+      "imageUrlIndexes": [0, 3]
+    },
+    "B00S9P4PH2": {
+      "imageUrlIndexes": [0]
+    },
+    "B004FVGUCC": {
+      "imageUrlIndexes": [1]
+    },
+    "B00JQY2BSA": {
+      "imageUrlIndexes": [0]
+    },
+    "B00Y2D1BN6": {
+      "imageUrlIndexes": [0]
+    },
+    "B00JQX94VI": {
+      "imageUrlIndexes": [0]
+    },
+    "B01C14IT96": {
+      "imageUrlIndexes": [2],
+      "productType": "gown"
+    },
+    "B00VXSIREE": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B011EBN6Q8": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B013SEURL6": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B0138NRDWI": {
+      "imageUrlIndexes": [0],
+      "productType": "skirt"
+    },
+    "B002W4WH6C": {
+      "imageUrlIndexes": [1]
+    },
+    "B00APG2Q4W": {
+      "imageUrlIndexes": [1]
+    },
+    "B00XMWPLYI": {
+      "imageUrlIndexes": [1]
+    },
+    "B01FZG4KEU": {
+      "imageUrlIndexes": [1]
+    },
+    "B01DJ0R726": {
+      "imageUrlIndexes": [1]
+    },
+    "B01GG692DW": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B005A9V39I": {
+      "agegroup": "toddler"
+    },
+    "B00PF66HMO": {
+      "imageUrlIndexes": [0]
+    },
+    "B00RJ36UT6": {
+      "imageUrlIndexes": [2]
+    },
+    "B00O3H655U": {
+      "imageUrlIndexes": [2]
+    },
+    "B00JH1TO82": {
+      "imageUrlIndexes": [0]
+    },
+    "B00VFH1UM4": {
+      "imageUrlIndexes": [0]
+    },
+    "B019HRAS7G": {
+      "imageUrlIndexes": [2]
+    },
+    "B01F6S3AMA": {
+      "imageUrlIndexes": [0]
+    },
+    "B01ERHA4KC": {
+      "imageUrlIndexes": [2]
+    },
+    "B0168B0IQU": {
+      "imageUrlIndexes": [2]
+    },
+    "B00M0GJZ2G": {
+      "productType": "female underwear"
+    },
+    "B00MS1GV2K": {
+      "productType": "dress"
+    },
+    "B00I2Z8DF4": {
+      "imageUrlIndexes": [2]
+    },
+    "B00C9MMXNO": {
+      "imageUrlIndexes": [0]
+    },
+    "B00E817CWQ": {
+      "productType": "shoes"
+    },
+    "B004AK7E7S": {
+      "imageUrlIndexes": [1]
+    },
+    "B004L7LJFS": {
+      "imageUrlIndexes": [3]
+    },
+    "B00LI3FIX2": {
+      "imageUrlIndexes": [1]
+    },
+    "B014J2CQT2": {
+      "imageUrlIndexes": [1],
+      "gender": "unisex"
+    },
+    "B0106TUOYQ": {
+      "imageUrlIndexes": [0],
+      "agegroup": "toddler"
+    },
+    "B01CNPYVS6": {
+      "imageUrlIndexes": [3]
+    },
+    "B00MM1M206": {
+      "imageUrlIndexes": [0]
+    },
+    "B001BELEC2": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00B9IZXUE": {
+      "imageUrlIndexes": [1]
+    },
+    "B01C05725I": {
+      "imageUrlIndexes": [1, 2, 3]
+    },
+    "B01HFF07SW": {
+      "imageUrlIndexes": [0, 1, 2]
+    },
+    "B00AAL7I5Y": {
+      "imageUrlIndexes": [0]
+    },
+    "B00C97MWO4": {
+      "productType": "pants"
+    },
+    "B00TZ73OXY": {
+      "imageUrlIndexes": [0]
+    },
+    "B00ZJECTVU": {
+      "imageUrlIndexes": [0]
+    }
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "itemsForDeletion": [
+    "B00SHNF09S",
+    "B00IWNUMJG",
+    "B01HDJMFUI",
+    "B00DYO5GZ8",
+    "B019O6JL46",
+    "B0143EVG4W",
+    "B00OH71PHE",
+    "B00H1BM2CU",
+    "B00HNN19F2",
+    "B005CVM0M8",
+    "B00NBDAHC4",
+    "B009YZVMO0",
+    "B000FDYIUK",
+    "B003AR8NS6",
+    "B00AZGH71Y",
+    "B00W96CIJY",
+    "B00789SYRW",
+    "B00FU3D4XW",
+    "B00GQS3OHQ",
+    "B00LHD262Y",
+    "B01F2E3CIU",
+    "B017S7UBEM",
+    "B01BQYR3JE",
+    "B00LU9KST8",
+    "B00W51GR2M",
+    "B01H0Q2FAY",
+    "B00U2EVA26",
+    "B0199F9P1Q",
+    "B012FOEQP8",
+    "B00PGDD2HO",
+    "B01AB6MDZ2",
+    "B01CGCEH1M",
+    "B00N5E8O60",
+    "B00GO44BWY",
+    "B01682SCF8",
+    "B019HYGD14",
+    "B00M8OUHKY",
+    "B005G58QL4",
+    "B00P57KHIS",
+    "B0002T6FLW"
+  ],
+  "itemsToBeModified": {
+    "B00IYPKBUM": {},
+    "B00KIOUQ3O": {},
+    "B00IZ9WCL8": {},
+    "B01FDHQ9ZY": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B0144BDN86": {},
+    "B00YZ6GZAY": {},
+    "B00JOP05EI": {},
+    "B005TLIJK8": {},
+    "B010RHO1QO": {},
+    "B00QT5K690": {},
+    "B016YFFZRC": {},
+    "B018J22C56": {},
+    "B00FGDTR8M": {},
+    "B00OU6A4OW": {},
+    "B00PHQGNG2": {
+      "imageUrlIndexes": [0, 1, 3]
+    },
+    "B00N3R7TJ2": {},
+    "B00XVMOVG8": {},
+    "B00BFVKND2": {},
+    "B00GMO8000": {},
+    "B00DX639WE": {},
+    "B0048FDD5M": {},
+    "B01AUNW6N0": {},
+    "B01FLBZNGI": {},
+    "B011KX9GE6": {},
+    "B00YD5IXKC": {},
+
+    "B0175OY5OU": {},
+    "B0177LV2ZQ": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00NM6QBCA": {},
+    "B0059D0VO8": {},
+    "B014MB395U": {},
+    "B00GUTFOOW": {},
+    "B014F6CHZK": {
+      "imageUrlIndexes": [1]
+    },
+    "B00EXZIYPQ": {},
+    "B00J9UMVQ8": {},
+    "B00TX6KG9C": {},
+    "B00T6Q1C74": {},
+    "B017TE11QQ": {},
+    "B007U4ZENW": {},
+    "B0058CCLR0": {},
+    "B00IO93YN4": {
+      "imageUrlIndexes": [3]
+    },
+    "B01D9BGSSY": {},
+    "B006ZI5FA6": {},
+    "B001LNKFMI": {},
+    "B00B337HIQ": {},
+    "B013YT72YA": {
+      "imageUrlIndexes": [1, 2, 3]
+    },
+    "B00CH7746W": {},
+    "B01AO1WXYK": {},
+    "B00R0OQ13Y": {
+      "imageUrlIndexes": [1, 3]
+    },
+    "B0196HMTI8": {},
+    "B00YROWKN0": {},
+    "B00QN8OFLI": {},
+    "B00HS1SKHO": {},
+    "B00OSDB39W": {},
+    "B012ZFSFC2": {},
+    "B00PWNV1R6": {},
+    "B00T9OCMYK": {},
+    "B008HNOPEY": {
+      "imageUrlIndexes": [2]
+    },
+    "B00GYLO7Y4": {},
+    "B00AQ45WRQ": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00ADJCFN8": {},
+    "B00BBNY6QY": {},
+    "B006B2GTCO": {},
+    "B019ZJRS6A": {},
+    "B00466YGB8": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00H7BLKTK": {},
+    "B009ASGQMO": {},
+    "B015PC2CLM": {},
+    "B008M4DF8A": {},
+    "B00HS1S556": {},
+    "B00GUKL55S": {},
+
+    "B00AFV9XIO": {},
+    "B0010ETDSK": {},
+    "B01AB33BTC": {},
+    "B006H2Q78Y": {},
+    "B01CE8UYWE": {},
+    "B0067ZRZIW": {},
+    "B008NC5KXO": {},
+    "B0059AXMSS": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B000UZLNOW": {},
+    "B01EMSFDW0": {},
+    "B005BT28J6": {},
+    "B0089NZU7I": {},
+    "B01AZ30TJI": {},
+    "B009YI4V1I": {},
+    "B00D9XTPRE": {},
+    "B01GGTX1G8": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B016FSNM0U": {
+      "imageUrlIndexes": [0]
+    },
+    "B011ALTL84": {},
+    "B006CZ53QI": {
+      "imageUrlIndexes": [0]
+    },
+    "B01AHR10AE": {},
+    "B00LBFWJW0": {},
+    "B007TE1IU6": {},
+    "B016B20096": {},
+    "B005UZZDNY": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B014TF0R1S": {},
+    "B00A8R34H6": {},
+    "B005DEQMIC": {},
+    "B00ADVBH1W": {},
+    "B00O8TYWVC": {
+      "imageUrlIndexes": [1, 2]
+    },
+
+    "B01E7IKIZC": {},
+    "B0035XSD3K": {},
+    "B00KYDQZFC": {},
+    "B013XT8B6E": {},
+
+    "B01H57LUTU": {
+      "imageUrlIndexes": [0, 1, 3]
+    },
+    "B00T8RDRV0": {
+      "imageUrlIndexes": [0, 1, 2]
+    },
+    "B00IJQGGXM": {
+      "imageUrlIndexes": [0, 1, 3]
+    },
+    "B00P117FYC": {
+      "imageUrlIndexes": [1]
+    },
+    "B01GXB5INI": {
+      "imageUrlIndexes": [0]
+    },
+    "B00QNINF3C": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B01H70K3JI": {
+      "imageUrlIndexes": [1]
+    },
+    "B010GF7YK2": {
+      "imageUrlIndexes": [0]
+    },
+    "B00SIH6T16": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00SDF0SI8": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00PBV19LC": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B005LC1WH2": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00G5IA7NG": {
+      "imageUrlIndexes": [2]
+    },
+    "B016PD6PBS": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00HEL8PPA": {
+      "imageUrlIndexes": [0]
+    },
+    "B009LM1ZNY": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00L3W0ABI": {
+      "imageUrlIndexes": [0]
+    },
+    "B00R184UO6": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B005VE14FK": {
+      "imageUrlIndexes": [1]
+    },
+    "B00S0NP22K": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B014LIQ6WW": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B01EELQ3L0": {
+      "imageUrlIndexes": [0, 1, 2]
+    },
+    "B00I19DLDU": {
+      "imageUrlIndexes": [2]
+    },
+    "B00UVLGJ3U": {
+      "imageUrlIndexes": [1]
+    },
+    "B00Y0FT2QE": {
+      "imageUrlIndexes": [0, 2, 3]
+    },
+    "B00GZH6X3U": {
+      "imageUrlIndexes": [1]
+    },
+    "B01GVNXZ5G": {
+      "imageUrlIndexes": [0, 2]
+    },
+
+    "B016PZ7WW2": {
+      "imageUrlIndexes": [0, 1, 2]
+    },
+    "B00KC6AIIQ": {
+      "imageUrlIndexes": [0]
+    },
+    "B005G58QL4": {
+      "imageUrlIndexes": [0, 3]
+    },
+    "B0077S5IEQ": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B013G6HR2I": {
+      "imageUrlIndexes": [1]
+    },
+    "B014AHJ2XO": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00GA9S7KK": {
+      "imageUrlIndexes": [0]
+    },
+    "B00H7IORVG": {
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00A4A9UMA": {
+      "imageUrlIndexes": [0]
+    },
+    "B00CW12HR4": {
+      "imageUrlIndexes": [2]
+    },
+    "B00P57KHIS": {
+      "imageUrlIndexes": [1]
+    },
+    "B00G0UA6XU": {
+      "imageUrlIndexes": [1]
+    },
+    "B0002T6GCA": {
+      "imageUrlIndexes": [2]
+    },
+    "B0178EXLCE": {
+      "imageUrlIndexes": [3]
+    },
+    "B013DYUGQC": {
+      "gender": "women",
+      "imageUrlIndexes": [2]
+    },
+    "B017XCJVXY": {
+      "productType": "shoes"
+    },
+    "B00CEMI7KW": {
+      "productType": "shoes"
+    },
+    "B017PR4EIO": {
+      "productType": "shoes"
+    },
+    "B01BNOKPWE": {
+      "productType": "sneakers"
+    },
+    "B01401PNVU": {
+      "productType": "jackets/coats",
+      "imageUrlIndexes": [0, 2]
+    },
+    "B00OZA5QPA": {
+      "imageUrlIndexes": [0]
+    },
+    "B011IML6LU": {
+      "imageUrlIndexes": [0]
+    },
+    "B01A9X32Q6": {
+      "imageUrlIndexes": [1]
+    },
+    "B0061EQVBG": {
+      "imageUrlIndexes": [1]
+    },
+    "B01D2HVFX8": {
+      "imageUrlIndexes": [1]
+    },
+    "B00W96CEWU": {
+      "imageUrlIndexes": [1],
+      "productType": "pants"
+    },
+    "B010NQSDN6": {
+      "imageUrlIndexes": [0]
+    },
+    "B01BDBNEQG": {
+      "imageUrlIndexes": [0]
+    },
+    "B0155GDIQ6": {
+      "imageUrlIndexes": [0]
+    },
+    "B00U5Q19P4": {
+      "imageUrlIndexes": [0, 2, 3]
+    },
+    "B000VIIL2A": {
+      "imageUrlIndexes": [0]
+    }
+  }
+}

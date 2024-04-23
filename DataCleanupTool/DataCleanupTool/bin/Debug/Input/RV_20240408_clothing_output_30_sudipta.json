@@ -1,0 +1,79 @@
+{
+    "itemsForDeletion": [
+       "B01G305YRE",
+       "B00NDYDPJI"
+    ],
+    "itemsToBeModified": {
+        "B00OVNKEGM":{},
+        "B01027OYUM":{},
+        "B017I6UC4W":{},
+        "B00FC9GOHW":{
+            "imageUrlIndexes":[0],
+            "ageGroup": "baby"
+        },
+        "B00A1MNDGA":{},
+        "B00AR0XDYS":{},
+        "B0171URRCU":{},
+        "B017216H1U":{},
+        "B00V3E2UF0":{},
+        "B005VWW2CG":{},
+        "B00PZ6KUYA":{},
+        "B00EKJVI1C":{},
+        "B01BLWDBV0":{},
+        "B00FK35WWI": {
+            "imageUrlIndexes":[1,3],
+            "gender": "unisex"
+        },
+        "B00XVVUA00": {
+            "ageGroup": "baby"
+        },
+        "B00BWAQPUG":{
+            "imageUrlIndexes":[0,1]
+            
+        },
+        "B0170Y564S":{
+            "imageUrlIndexes": [1],
+            "ageGroup": "toddler" 
+
+        },
+        "B015BDNOPI":{
+            "imageUrlIndexes": [0,1],
+            "ageGroup": "children" 
+        },
+        "B0155GQP1G":{},
+        "B004EM1694":{
+            "imageUrlIndexes": [0]
+
+        },
+        "B0193AUM2S":{
+            "imageUrlIndexes":[0],
+            "ageGroup": "baby"
+        },
+        "B019SKAX6I":{},
+        "B01DJ1CFA4":{
+            "imageUrlIndexes":[0,2,3] 
+        },
+        "B010SKUDRQ":{
+            "imageUrlIndexes":[0,1] 
+        },
+        "B019I0PMNC":{
+            "imageUrlIndexes":[1]
+
+        },
+        "B00NI4D688": {
+            "imageUrlIndexes": [3],
+            "gender": "unisex"
+        },
+        "B00FFIOSEG":{
+            "imageUrlIndexes": [1],
+            "gender": "unisex"
+
+        },
+        "B00MW2IL96":{
+            "imageUrlIndexes": [1] 
+
+        }
+
+       
+    }
+}

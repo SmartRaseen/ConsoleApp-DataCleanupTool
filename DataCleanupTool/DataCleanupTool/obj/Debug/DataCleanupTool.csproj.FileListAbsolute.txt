@@ -1,0 +1,96 @@
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.exe.config
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.exe
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.pdb
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\Newtonsoft.Json.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\Newtonsoft.Json.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.csproj.AssemblyReference.cache
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.csproj.CoreCompileInputs.cache
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\obj\Debug\DataClea.1A4DC525.Up2Date
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.exe
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.pdb
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\CsvHelper.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Buffers.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Memory.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Numerics.Vectors.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Json.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.ValueTuple.dll
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\CsvHelper.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Buffers.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Memory.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Numerics.Vectors.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Encodings.Web.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Json.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RSN\DataCleanupTool\DataCleanupTool\DataCleanupTool\bin\Debug\System.ValueTuple.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.exe.config
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.exe
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.pdb
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\CsvHelper.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Newtonsoft.Json.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Buffers.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Memory.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Numerics.Vectors.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Json.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.ValueTuple.dll
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\CsvHelper.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Newtonsoft.Json.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Buffers.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Memory.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Numerics.Vectors.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Encodings.Web.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Json.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.ValueTuple.xml
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.csproj.AssemblyReference.cache
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.csproj.CoreCompileInputs.cache
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataClea.1A4DC525.Up2Date
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.exe
+D:\RSN\Repository\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.pdb
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.exe.config
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.exe
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\DataCleanupTool.pdb
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\CsvHelper.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Buffers.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Memory.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Json.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.ValueTuple.dll
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\CsvHelper.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Buffers.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Memory.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Encodings.Web.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Text.Json.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\bin\Debug\System.ValueTuple.xml
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.csproj.AssemblyReference.cache
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.csproj.CoreCompileInputs.cache
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataClea.1A4DC525.Up2Date
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.exe
+D:\New folder\Programming_Language\DataCleanupTool\DataCleanupTool\obj\Debug\DataCleanupTool.pdb
