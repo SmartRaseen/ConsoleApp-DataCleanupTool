@@ -1,7 +1,6 @@
-﻿using System.Linq;
+﻿using System.IO;
+using System.Linq;
 using System.Collections.Generic;
-using System.IO;
-using System;
 
 namespace DataCleanupTool
 {
@@ -37,12 +36,12 @@ namespace DataCleanupTool
 
         public static void CreateOutputFolder(string outputDirectory)
         {
-         //   var resultsFolder = $@"OutputFolder\{DateTime.Now:yyyy-MM-dd_hh_mm_ss}";
             var resultDetailsFolder = $@"{outputDirectory}\Details";
             var resultSummaryFolder = $@"{outputDirectory}\Summary";
             var resultErrorDetailsFolder = $@"{outputDirectory}\ErrorDetails";
             var resultErrorSummaryFolder = $@"{outputDirectory}\ErrorSummary";
             var resultConsolidatedErrorFolder = $@"{outputDirectory}\ConsolidatedErrors";
+            var resultDuplicateProductIdsFolder = $@"{outputDirectory}\DuplicateProductIds";
 
             if (!Directory.Exists(resultDetailsFolder))
             {
@@ -69,10 +68,10 @@ namespace DataCleanupTool
                 Directory.CreateDirectory(resultConsolidatedErrorFolder);
             }
 
-
-            //var fileName = $@"{resultsFolder}\DataCleanupReport.csv";
-
-            //return resultsFolder;
+            if (!Directory.Exists(resultDuplicateProductIdsFolder))
+            {
+                Directory.CreateDirectory(resultDuplicateProductIdsFolder);
+            }
         }
     }
 }

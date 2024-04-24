@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>DataCleanupTool</RootNamespace>
     <AssemblyName>DataCleanupTool</AssemblyName>
-	  <langVersion>latest</langVersion>
+    <langVersion>latest</langVersion>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -81,6 +81,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataValidatorExtension.cs" />
     <Compile Include="Model\TotalDataValidator.cs" />
     <Compile Include="Model\Validator.cs" />
     <Compile Include="Schema\ValidatorMap.cs" />

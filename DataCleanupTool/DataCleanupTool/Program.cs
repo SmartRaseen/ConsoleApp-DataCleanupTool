@@ -6,6 +6,7 @@ using DataCleanupTool.Utils;
 using DataCleanupTool.Schema;
 using System.Collections.Generic;
 using Ext = DataCleanupTool.ValidatorExtension;
+using DataExt = DataCleanupTool.DataValidatorExtension;
 
 namespace DataCleanupTool
 {
@@ -18,6 +19,8 @@ namespace DataCleanupTool
         public static List<TotalDataValidator> ErrorDetailValidators { get; set; } = new List<TotalDataValidator>();
         public static List<TotalDataValidator> ConsolidatedErrors { get; set; } = new List<TotalDataValidator>();
         public static Dictionary<string, JObject> jsonContents = new Dictionary<string, JObject>();
+
+        public static Dictionary<string, string> matchedIds = new Dictionary<string, string>();
 
         private const string inputDirectory = @"Input";
         private const string outputDirectory = @"Output";
@@ -44,7 +47,10 @@ namespace DataCleanupTool
                     jsonContents.Add(fileName, jsonObject);
                 }
 
-                foreach(var jsonObject in jsonContents)
+                // Validate duplicate product ids
+                DataExt.ValidateDuplicateProductIds(jsonContents);
+
+                foreach (var jsonObject in jsonContents)
                 {
                     // Validate itemsForDeletion
                     ValidateItemsForDeletion(jsonObject.Key, jsonObject.Value);
@@ -53,10 +59,12 @@ namespace DataCleanupTool
                     ValidateItemsToBeModified(jsonObject.Key, jsonObject.Value);
                 }
 
-                var consolidatedErrorOutput = $"{outputDirectory}/ConsolidatedErrors/ConsolidatedErrorDetails.csv";
+                var consolidatedErrorOutput = $"{outputDirectory}/ConsolidatedErrors/ConsolidatedErrorDetails_{DateTime.Now:yyyy-MM-dd_hh_mm_ss}.csv";
 
                 // Merging the error result
                 FileUtils.WriteCsvFile(consolidatedErrorOutput, ConsolidatedErrors, new TotalDataValidatorMap());
+
+                //
             }
             catch (Exception ex)
             {
@@ -232,6 +240,7 @@ namespace DataCleanupTool
                             string productType = (string)productTypeToken;
                             ValidatePropertyValue("productType", productType.ToString(), TypeValidator.GetValidProductTypes(), key, fileName);
                         }
+                        
                         // Check if the value is an array
                         else if (productTypeToken.Type == JTokenType.Array)
                         {
