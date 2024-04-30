@@ -1,0 +1,63 @@
+{
+  "itemsForDeletion": [
+    "B005SB1R80",
+    "B009LLC0PM",
+    "B0006FTCHG",
+    "B005SB1R80",
+    "B01AAT6GWG",
+    "B01GUOMFUW",
+    "B01GUOMFT8",
+    "B00IP6EIM2",
+    "B009LLC0PM",
+    "B0143S3ZW4",
+    "B01AW1T8L8",
+    "B0006FTCHG",
+    "B00XV0O8I6",
+    "B01B92IXCY",
+    "B01AW1TQM4",
+    "B01AW1T8L8",
+    "B00MXUIOF8"
+  ],
+  "itemsToBeModified": {
+    "B01F7VNVT8": {},
+    "B00C7DVZZC": {
+      "imageUrlIndexes": [
+        1
+      ],
+      "agegroup": "baby",
+      "gender": "unisex"
+    },
+    "B01BFB45GW": {
+      "productType": "mens underwear"
+    },
+    "B014IODINE": {
+      "gender": "other"
+    },
+    "B008J4PEFU": {
+      "imageUrlIndexes": [
+        0
+      ],
+      "gender": "unisex"
+    },
+    "B00I84FOHE": {},
+    "B0189EBMZU": {},
+    "B00W5PP9RW": {},
+    "B0143VKIZS": {
+      "productType": "mens underwear"
+    },
+    "B00BYKBPNG": {
+      "imageUrlIndexes": [
+        0,
+        1,
+        2
+      ]
+    },
+    "B018M0L2H4": {
+      "imageUrlIndexes": [
+        0,
+        2
+      ]
+    },
+    "B017J8UN98": {}
+  }
+}

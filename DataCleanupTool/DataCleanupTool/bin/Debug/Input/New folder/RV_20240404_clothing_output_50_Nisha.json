@@ -1,0 +1,80 @@
+{
+  "itemsForDeletion": [
+    "B005SB1R80",
+    "B009LLC0PM",
+    "B0006FTCHG",
+    "B016BPJWPG",
+    "B00JNXRY54",
+    "B00KFJZ88A",
+    "B015CP8AJK"
+  ],
+  "itemsToBeModified": {
+    "B01F7VNVT8": {},
+    "B00C7DVZZC": {},
+    "B01BFB45GW": {},
+    "B00WQC45S8": {},
+    "B00OKD4IEC": {},
+    "B00D8DQRAS": {},
+    "B00WQR1P4U": {},
+    "B01AV42Y94": {},
+    "B01F4G3N58": {},
+    "B01C8489D0": {},
+    "B01FVUMCMW": {},
+    "B00HT40BQ8": {},
+    "B00C43IE7W": {},
+    "B01AC99EGO": {},
+    "B01F7OX0ZA": {},
+    "B00BSVRWX8": {},
+    "B00B1VTXS2": {},
+    "B013D2DSMS": {},
+    "B00LOOH4W8": {},
+    "B00MDGZX42": {},
+    "B00TDBUHWS": {},
+    "B01772CYNE": {},
+    "B00QXISRGW": {},
+    "B00WDKZ4Q0": {},
+    "B0195DDY9Q": {},
+    "B00ANRRRY2": {},
+    "B00VW8A23E": {},
+    "B00EOQYRAA": {},
+    "B00DVMRN5O": {},
+    "B00JAZUKCO": {},
+    "B00D4DKIMU": {},
+    "B00QH9HBWI": {},
+    "B0182N4KXY": {},
+    "B00FXCTJNE": {},
+    "B011QXYV2C": {},
+    "B00EZK2U6I": {},
+    "B00OLGUEBY": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B00AO9T7BA": {
+      "imageUrlIndexes": [0, 1]
+    },
+    "B00RHB4GDC": {
+      "imageUrlIndexes": [1]
+    },
+    "B019OOSBF8": {
+      "imageUrlIndexes": [1, 2]
+    },
+    "B007CV8962": {
+      "imageUrlIndexes": [1, 3]
+    },
+    "B006MVRKXG": {
+      "imageUrlIndexes": [2]
+    },
+    "B00AWSU3DO": {
+      "imageUrlIndexes": [1, 2, 3]
+    },
+    "B00632NYPW": {
+      "imageUrlIndexes": [1]
+    },
+    "B014IODINE": {
+      "imageUrlIndexes": [1, 2, 3]
+    },
+    "B008J4PEFU": {
+      "imageUrlIndexes": [0],
+      "gender": "unisex"
+    }
+  }
+}

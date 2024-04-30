@@ -1,0 +1,6 @@
+﻿FileName,ProductName,Key,Value,Validation
+RV_20240404_clothing_output_50_Nisha.json,B01F7VNVT8,Valid keys,Valid values,Valid
+RV_20240404_clothing_output_50_Nisha.json,B00C7DVZZC,Valid keys,Valid values,Valid
+RV_20240404_clothing_output_50_Nisha.json,B01BFB45GW,Valid keys,Valid values,Valid
+RV_20240404_clothing_output_50_Nisha.json,B014IODINE,gender,Invalid gender value 'other' found for the product 'B014IODINE',Error
+RV_20240404_clothing_output_50_Nisha.json,B008J4PEFU,Valid keys,Valid values,Valid

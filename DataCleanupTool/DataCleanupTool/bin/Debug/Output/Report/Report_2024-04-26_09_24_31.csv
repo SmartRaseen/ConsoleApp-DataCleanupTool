@@ -1,0 +1,32 @@
+﻿FileName,ProductId,gender,ageGroup,productType,imageUrlIndexes,Action
+RV_20240404_clothing_output_50_Nisha.json,B005SB1R80,,,,,itemsForDeletion
+RV_20240404_clothing_output_50_Nisha.json,B009LLC0PM,,,,,itemsForDeletion
+RV_20240404_clothing_output_50_Nisha.json,B0006FTCHG,,,,,itemsForDeletion
+RV_20240404_clothing_output_50_Nisha.json,B005SB1R80,,,,,itemsForDeletion
+RV_20240404_clothing_output_50_Nisha.json,B01F7VNVT8,,,,,itemsToBeModified
+RV_20240404_clothing_output_50_Nisha.json,B00C7DVZZC,,,,,itemsToBeModified
+RV_20240404_clothing_output_50_Nisha.json,B01BFB45GW,,,,,itemsToBeModified
+RV_20240404_clothing_output_50_Nisha.json,B014IODINE,other,,,,itemsToBeModified
+RV_20240404_clothing_output_50_Nisha.json,B008J4PEFU,unisex,,,[0],itemsToBeModified
+RV_20240405_clothing_output_50_sudipta.json,B01AAT6GWG,,,,,itemsForDeletion
+RV_20240405_clothing_output_50_sudipta.json,B01GUOMFUW,,,,,itemsForDeletion
+RV_20240405_clothing_output_50_sudipta.json,B01GUOMFT8,,,,,itemsForDeletion
+RV_20240405_clothing_output_50_sudipta.json,B00IP6EIM2,,,,,itemsForDeletion
+RV_20240405_clothing_output_50_sudipta.json,B009LLC0PM,,,,,itemsForDeletion
+RV_20240405_clothing_output_50_sudipta.json,B00I84FOHE,,,,,itemsToBeModified
+RV_20240405_clothing_output_50_sudipta.json,B0189EBMZU,,,,,itemsToBeModified
+RV_20240405_clothing_output_50_sudipta.json,B00C7DVZZC,unisex,,,[1],itemsToBeModified
+RV_20240405_clothing_output_56_nisha.json,B0143S3ZW4,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B01AW1T8L8,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B0006FTCHG,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B00XV0O8I6,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B01B92IXCY,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B01AW1TQM4,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B01AW1T8L8,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B00MXUIOF8,,,,,itemsForDeletion
+RV_20240405_clothing_output_56_nisha.json,B00W5PP9RW,,,,,itemsToBeModified
+RV_20240405_clothing_output_56_nisha.json,B0143VKIZS,,,mens underwear,,itemsToBeModified
+RV_20240405_clothing_output_56_nisha.json,B01BFB45GW,,,mens underwear,,itemsToBeModified
+RV_20240405_clothing_output_56_nisha.json,B00BYKBPNG,,,,"[0, 1, 2]",itemsToBeModified
+RV_20240405_clothing_output_56_nisha.json,B018M0L2H4,,,,"[0, 2]",itemsToBeModified
+RV_20240405_clothing_output_56_nisha.json,B017J8UN98,,,,,itemsToBeModified

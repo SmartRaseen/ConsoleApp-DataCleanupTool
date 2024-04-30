@@ -7,17 +7,21 @@ using DataCleanupTool.Schema;
 using System.Collections.Generic;
 using Ext = DataCleanupTool.ValidatorExtension;
 using DataExt = DataCleanupTool.DataValidatorExtension;
+using Newtonsoft.Json;
+using System.Text.RegularExpressions;
+using System.Linq;
 
 namespace DataCleanupTool
 {
     internal class Program
     {
         public static bool isProductValid { get; set; }
-        public static List<Validator> Validators { get; set; } = new List<Validator>();
-        public static List<TotalDataValidator> TotalDataValidators { get; set; } = new List<TotalDataValidator>();
-        public static List<Validator> ErrorSummaryValidators { get; set; } = new List<Validator>();
-        public static List<TotalDataValidator> ErrorDetailValidators { get; set; } = new List<TotalDataValidator>();
-        public static List<TotalDataValidator> ConsolidatedErrors { get; set; } = new List<TotalDataValidator>();
+        public static List<SummaryDataValidator> Validators { get; set; } = new List<SummaryDataValidator>();
+        public static List<DetailedDataValidator> TotalDataValidators { get; set; } = new List<DetailedDataValidator>();
+        public static List<SummaryDataValidator> ErrorSummaryValidators { get; set; } = new List<SummaryDataValidator>();
+        public static List<DetailedDataValidator> ErrorDetailValidators { get; set; } = new List<DetailedDataValidator>();
+        public static List<DetailedDataValidator> ConsolidatedErrors { get; set; } = new List<DetailedDataValidator>();
+        public static List<Report> Reports { get; set; }= new List<Report>();
         public static Dictionary<string, JObject> jsonContents = new Dictionary<string, JObject>();
 
         public static Dictionary<string, string> matchedIds = new Dictionary<string, string>();
@@ -27,9 +31,10 @@ namespace DataCleanupTool
 
         static void Main(string[] args)
         {
-
             try
             {
+                JObject mergedObject = new JObject();
+
                 // Get all JSON files from the directory
                 string[] jsonFiles = Directory.GetFiles(inputDirectory, "*.json");
 
@@ -39,22 +44,37 @@ namespace DataCleanupTool
                     // Read JSON file
                     string jsonContent = File.ReadAllText(jsonFile);
 
+                    // Get duplicate product Ids in ItemsToBeModified
+                    DataExt.GetIdsFromItemsToBeModified(jsonFile, jsonContent, ConsolidatedErrors);
+
                     // Parse JSON content
                     JObject jsonObject = JObject.Parse(jsonContent);
+
+                    // Merge current JSON object into mergedObject
+                    mergedObject.Merge(jsonObject);
 
                     // Store JSON content along with the file name
                     string fileName = Path.GetFileName(jsonFile);
                     jsonContents.Add(fileName, jsonObject);
                 }
 
-                // Validate duplicate product ids
-                DataExt.ValidateDuplicateProductIds(jsonContents);
+                // Merge input file
+                if (mergedObject.Count >= 1)
+                {
+                    Ext.CreateOutputFolder(outputDirectory);
+                    var mergedJSONOutput = $"{outputDirectory}/MergedInputJSON/Merged_{DateTime.Now:yyyy-MM-dd_hh_mm_ss}.json";
+                    Console.WriteLine($"\nWriting merged JSON files to: {mergedJSONOutput}");
+                    File.WriteAllText(mergedJSONOutput, mergedObject.ToString());
+                }
+
+                // Generate the report for extracted data
+                GenerateDataReport();
+
+                // Validate duplicate itemsForDeletion product ids in itemsToBeModified
+                DataExt.ValidateDuplicateProductIds(jsonContents, ConsolidatedErrors);
 
                 foreach (var jsonObject in jsonContents)
                 {
-                    // Validate itemsForDeletion
-                    ValidateItemsForDeletion(jsonObject.Key, jsonObject.Value);
-
                     // Validate itemsToBeModified
                     ValidateItemsToBeModified(jsonObject.Key, jsonObject.Value);
                 }
@@ -62,9 +82,11 @@ namespace DataCleanupTool
                 var consolidatedErrorOutput = $"{outputDirectory}/ConsolidatedErrors/ConsolidatedErrorDetails_{DateTime.Now:yyyy-MM-dd_hh_mm_ss}.csv";
 
                 // Merging the error result
-                FileUtils.WriteCsvFile(consolidatedErrorOutput, ConsolidatedErrors, new TotalDataValidatorMap());
-
-                //
+                if(ConsolidatedErrors.Count >= 1)
+                {
+                    Console.WriteLine($"\nWriting consolidated errors output to: {consolidatedErrorOutput}");
+                    FileUtils.WriteCsvFile(consolidatedErrorOutput, ConsolidatedErrors, new DetailedDataValidatorMap());
+                }
             }
             catch (Exception ex)
             {
@@ -72,51 +94,60 @@ namespace DataCleanupTool
             }
         }
 
-        private static void ValidateItemsForDeletion(string fileName, JObject jsonObject)
+        private static void GenerateDataReport()
         {
-            JArray itemsForDeletion = (JArray)jsonObject["itemsForDeletion"];
-            if (itemsForDeletion != null)
+            foreach(var kvp in jsonContents)
             {
-                Console.WriteLine("Items for Deletion:");
+                JArray itemsForDeletion = (JArray)kvp.Value["itemsForDeletion"];
+                JObject itemsToBeModified = (JObject)kvp.Value["itemsToBeModified"];
 
-                // Checking itemsForDeletion productIds are presented in itemsToBeModified
-                JObject itemsToBeModified = (JObject)jsonObject["itemsToBeModified"];
-
-                foreach (string item in itemsForDeletion)
+                foreach (var itemsDeletion in itemsForDeletion)
                 {
-                    if (itemsToBeModified.ContainsKey(item))
+                    var report = new Report()
                     {
-                        // First output validation
-                        var validator = new Validator()
-                        {
-                            FileName = fileName,
-                            ProductName = item,
-                            Validation = "Error"
-                        };
+                        FileName = kvp.Key.ToString(),
+                        ProductId = itemsDeletion.ToString(),
+                        gender = string.Empty,
+                        ageGroup = string.Empty,
+                        productType = string.Empty,
+                        imageUrlIndexes = string.Empty,
+                        Action = "itemsForDeletion"
+                    };
 
-                        // Second output validation
-                        var totaldatavalidator = new TotalDataValidator()
-                        {
-                            FileName = fileName,
-                            ProductName = item,
-                            Key = "itemsForDeletion",
-                            Value = $"This {item} product have duplicates in itemsToBeModified",
-                            Validation = "Error"
-                        };
+                    Reports.Add(report);
+                }
 
-                        // Data validations
-                        Validators.Add(validator);
-                        TotalDataValidators.Add(totaldatavalidator);
-
-                        // Error validations
-                        ErrorSummaryValidators.Add(validator);
-                        ErrorDetailValidators.Add(totaldatavalidator);
+                foreach(var itemsModified in itemsToBeModified)
+                {
+                    string imageUrlIndexes = string.Empty;
+                    if(itemsModified.Value["imageUrlIndexes"] != null)
+                    {
+                        imageUrlIndexes = string.Join(", ", ((JArray)itemsModified.Value["imageUrlIndexes"]).ToObject<int[]>());
                     }
+
+                    var report = new Report()
+                    {
+                        FileName = kvp.Key.ToString(),
+                        ProductId = itemsModified.Key.ToString(),
+                        gender = itemsModified.Value["gender"] != null ? itemsModified.Value["gender"].ToString() : string.Empty,
+                        ageGroup = itemsModified.Value["ageGroup"] != null ? itemsModified.Value["ageGroup"].ToString() : string.Empty,
+                        productType = itemsModified.Value["productType"] != null ? itemsModified.Value["productType"].ToString() : string.Empty,
+                        imageUrlIndexes = imageUrlIndexes != string.Empty ? "[" + imageUrlIndexes + "]" : string.Empty,
+                        Action = "itemsToBeModified"
+                    };
+
+                    Reports.Add(report);
                 }
             }
-            else
+
+            Ext.CreateOutputFolder(outputDirectory);
+            var reportDataOutput = $"{outputDirectory}/Report/Report_{DateTime.Now:yyyy-MM-dd_hh_mm_ss}.csv";
+
+            // Writing the consolidated data report output csv file
+            if (Reports.Count >= 1)
             {
-                Console.WriteLine("No items for deletion found.");
+                Console.WriteLine($"\nWriting consolidated data report output to: {reportDataOutput}");
+                FileUtils.WriteCsvFile(reportDataOutput, Reports, new ReportMap());
             }
         }
 
@@ -140,7 +171,7 @@ namespace DataCleanupTool
                         if (!validValues.Contains(prop.Key))
                         {
                             // First output validation
-                            var validator = new Validator()
+                            var validator = new SummaryDataValidator()
                             {
                                 FileName = fileName,
                                 ProductName = key,
@@ -148,7 +179,7 @@ namespace DataCleanupTool
                             };
 
                             // Second output validation
-                            var totaldatavalidator = new TotalDataValidator()
+                            var totaldatavalidator = new DetailedDataValidator()
                             {
                                 FileName = fileName,
                                 ProductName = key,
@@ -185,7 +216,7 @@ namespace DataCleanupTool
                             if (hasDuplicates)
                             {
                                 // First output validation
-                                var validator = new Validator()
+                                var validator = new SummaryDataValidator()
                                 {
                                     FileName = fileName,
                                     ProductName = key,
@@ -193,7 +224,7 @@ namespace DataCleanupTool
                                 };
 
                                 // Second output validation
-                                var totaldatavalidator = new TotalDataValidator()
+                                var totaldatavalidator = new DetailedDataValidator()
                                 {
                                     FileName = fileName,
                                     ProductName = key,
@@ -254,16 +285,16 @@ namespace DataCleanupTool
 
                     if (isProductValid)
                     {
-                        // Data summary validation
-                        var validator = new Validator()
+                        // Summary data validation
+                        var validator = new SummaryDataValidator()
                         {
                             FileName = fileName,
                             ProductName = key,
                             Validation = "Valid"
                         };
 
-                        // Data detail validation
-                        var totaldatavalidator = new TotalDataValidator()
+                        // Detailed data validation
+                        var totaldatavalidator = new DetailedDataValidator()
                         {
                             FileName = fileName,
                             ProductName = key,
@@ -291,28 +322,28 @@ namespace DataCleanupTool
                 if(Validators.Count >= 1)
                 {
                     Console.WriteLine($"\nWriting summary output to: {summaryOutput}");
-                    FileUtils.WriteCsvFile(detailsOutput, Validators, new ValidatorMap());
+                    FileUtils.WriteCsvFile(summaryOutput, Validators, new SummaryDataValidatorMap());
                 }
 
                 // Writing the details output csv file
                 if(TotalDataValidators.Count >= 1)
                 {
                     Console.WriteLine($"\nWriting details output to: {detailsOutput}");
-                    FileUtils.WriteCsvFile(summaryOutput, TotalDataValidators, new TotalDataValidatorMap());
+                    FileUtils.WriteCsvFile(detailsOutput, TotalDataValidators, new DetailedDataValidatorMap());
                 }
 
                 // Writing the error details output csv file
                 if(ErrorDetailValidators.Count >= 1)
                 {
                     Console.WriteLine($"\nWriting error details output to: {errorDetailsOutput}");
-                    FileUtils.WriteCsvFile(errorDetailsOutput, ErrorDetailValidators, new TotalDataValidatorMap());
+                    FileUtils.WriteCsvFile(errorDetailsOutput, ErrorDetailValidators, new DetailedDataValidatorMap());
                 }
 
                 // Writing the error summary output csv file
                 if(ErrorSummaryValidators.Count >= 1)
                 {
                     Console.WriteLine($"\nWriting error summary output to: {errorSummaryOutput}");
-                    FileUtils.WriteCsvFile(errorSummaryOutput, ErrorSummaryValidators, new ValidatorMap());
+                    FileUtils.WriteCsvFile(errorSummaryOutput, ErrorSummaryValidators, new SummaryDataValidatorMap());
                 }
 
                 // Consolidated errors
@@ -334,16 +365,16 @@ namespace DataCleanupTool
         {
             if (!validValues.Contains(propertyValue))
             {
-                // First output validation
-                var validator = new Validator()
+                // Summary data output validation
+                var validator = new SummaryDataValidator()
                 {
                     FileName = fileName,
                     ProductName = key,
                     Validation = "Error"
                 };
 
-                // Second output validation
-                var totaldatavalidator = new TotalDataValidator()
+                // Detailed data output validation
+                var totaldatavalidator = new DetailedDataValidator()
                 {
                     FileName = fileName,
                     ProductName = key,

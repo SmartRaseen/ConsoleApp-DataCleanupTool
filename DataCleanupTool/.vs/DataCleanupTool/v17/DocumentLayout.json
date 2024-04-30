@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder\\Programming_Language\\DataCleanupTool\\",
+  "WorkspaceRootPath": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\new folder\\programming_language\\datacleanuptool\\datacleanuptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\validatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\validatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\typevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\typevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\datavalidatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\datavalidatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\schema\\detaileddatavalidatormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\schema\\detaileddatavalidatormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\schema\\summarydatavalidatormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\schema\\summarydatavalidatormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\model\\summarydatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\model\\summarydatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\model\\detaileddatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\model\\detaileddatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\schema\\reportmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\schema\\reportmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|d:\\rsn\\datacleanup repository\\consoleapp-datacleanuptool\\datacleanuptool\\datacleanuptool\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745E9FBD-86BB-491E-976C-2EB0EDCB373F}|DataCleanupTool\\DataCleanupTool.csproj|solutionrelative:datacleanuptool\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeValidator.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\TypeValidator.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\TypeValidator.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\TypeValidator.cs",
+              "RelativeToolTip": "DataCleanupTool\\TypeValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:50:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailedDataValidatorMap.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Schema\\DetailedDataValidatorMap.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\Schema\\DetailedDataValidatorMap.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Schema\\DetailedDataValidatorMap.cs",
+              "RelativeToolTip": "DataCleanupTool\\Schema\\DetailedDataValidatorMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:52:56.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SummaryDataValidator.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Model\\SummaryDataValidator.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\Model\\SummaryDataValidator.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Model\\SummaryDataValidator.cs",
+              "RelativeToolTip": "DataCleanupTool\\Model\\SummaryDataValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:38:48.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataValidatorExtension.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\DataValidatorExtension.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\DataValidatorExtension.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\DataValidatorExtension.cs",
+              "RelativeToolTip": "DataCleanupTool\\DataValidatorExtension.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:31:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidatorExtension.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\ValidatorExtension.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\ValidatorExtension.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\ValidatorExtension.cs",
+              "RelativeToolTip": "DataCleanupTool\\ValidatorExtension.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:28:11.01Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder\\Programming_Language\\DataCleanupTool\\DataCleanupTool\\Program.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Program.cs",
               "RelativeDocumentMoniker": "DataCleanupTool\\Program.cs",
-              "ToolTip": "D:\\New folder\\Programming_Language\\DataCleanupTool\\DataCleanupTool\\Program.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Program.cs",
               "RelativeToolTip": "DataCleanupTool\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:56:02.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailedDataValidator.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Model\\DetailedDataValidator.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\Model\\DetailedDataValidator.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Model\\DetailedDataValidator.cs",
+              "RelativeToolTip": "DataCleanupTool\\Model\\DetailedDataValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:39:04.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SummaryDataValidatorMap.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Schema\\SummaryDataValidatorMap.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\Schema\\SummaryDataValidatorMap.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Schema\\SummaryDataValidatorMap.cs",
+              "RelativeToolTip": "DataCleanupTool\\Schema\\SummaryDataValidatorMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:33:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Model\\Report.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\Model\\Report.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Model\\Report.cs",
+              "RelativeToolTip": "DataCleanupTool\\Model\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:38:45.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportMap.cs",
+              "DocumentMoniker": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Schema\\ReportMap.cs",
+              "RelativeDocumentMoniker": "DataCleanupTool\\Schema\\ReportMap.cs",
+              "ToolTip": "D:\\RSN\\DataCleanup Repository\\ConsoleApp-DataCleanupTool\\DataCleanupTool\\DataCleanupTool\\Schema\\ReportMap.cs",
+              "RelativeToolTip": "DataCleanupTool\\Schema\\ReportMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:33:41.799Z",
               "EditorCaption": ""
             }
           ]

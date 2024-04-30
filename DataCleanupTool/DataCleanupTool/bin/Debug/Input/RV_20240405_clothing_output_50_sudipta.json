@@ -4,128 +4,15 @@
     "B01GUOMFUW",
     "B01GUOMFT8",
     "B00IP6EIM2",
-    "B00VIJFLEM",
-    "B01GUOMFUC",
-    "B00YX3VTT6",
-    "B00RVUJYPY",
-    "B00YV577GU",
-    "B00QQNI4SA",
-    "B01GA4U2C0",
-    "B00LPJVQSA"
+    "B009LLC0PM"
   ],
   "itemsToBeModified": {
     "B00I84FOHE": {},
     "B0189EBMZU": {},
-    "B00609X8TA": {},
-    "B01FT09TCU": {},
-    "B00O3DU578": {},
-    "B010O5NPZW": {},
-    "B0170P59O4": {
-      "imageUrlIndexes": [0, 2],
-      "agegroup": "toddler"
-    },
-    "B01F4HVQSS": {
-      "imageUrlIndexes": [2]
-    },
-    "B00BA1EBM6": {
-      "imageUrlIndexes": [1, 3]
-    },
-    "B015S5LIWA": {
-      "gender": "unisex",
-      "agegroup": "toddler",
-      "imageUrlIndexes": [0, 1]
-    },
-    "B00GSCWKZ2": {
-      "agegroup": "baby"
-    },
-    "B00L3780R4": {
-      "imageUrlIndexes": [1],
-      "gender": "unisex"
-    },
-    "B00BDU98BI": {
-      "imageUrlIndexes": [2, 3]
-    },
-    "B00VNZWZ8Q": {
-      "agegroup": "toddler",
-      "gender": "unisex"
-    },
-    "B01G59OZB4": {
-      "agegroup": "baby"
-    },
-    "B01EIQ8B0W": {
-      "imageUrlIndexes": [1, 2],
-      "agegroup": "toddler"
-    },
-    "B01DJ9FYI6": {
-      "imageUrlIndexes": [0, 1],
-      "agegroup": "toddler"
-    },
-    "B004RFJO3S": {
-      "imageUrlIndexes": [1]
-    },
-    "B01AU09BDG": {
-      "imageUrlIndexes": [0, 2],
-      "gender": "unisex"
-    },
-    "B00W44JUJM": {
+    "B00C7DVZZC": {
       "imageUrlIndexes": [1],
       "agegroup": "baby",
       "gender": "unisex"
-    },
-    "B01G2GAOBK": {
-      "imageUrlIndexes": [1],
-      "agegroup": "baby"
-    },
-    "B00497BTHI": {
-      "agegroup": "toddler"
-    },
-    "B005AMAZBW": {
-      "agegroup": "toddler"
-    },
-    "B0044ZWWJO": {
-      "agegroup": "toddler"
-    },
-    "B00AAI60UG": {
-      "imageUrlIndexes": [2]
-    },
-    "B008C4KCU4": {
-      "agegroup": "toddler"
-    },
-    "B0044PW2NK": {
-      "agegroup": "toddler"
-    },
-    "B00XCKWDJG": {
-      "imageUrlIndexes": [2, 2]
-    },
-    "B00YTIBOCC": {
-      "agegroup": "children"
-    },
-    "B006MXPGTY": {
-      "agegroup": "toddler"
-    },
-    "B00H06HPMS": {
-      "agegroup": "toddler"
-    },
-    "B008M9UMLS": {
-      "agegroup": "toddler"
-    },
-    "B004HV9ZPE": {
-      "agegroup": "toddler"
-    },
-    "B0059N4B8K": {
-      "agegroup": "toddler"
-    },
-    "B00AE7EV0Y": {
-      "agegroup": "toddler"
-    },
-    "B00TTJLJBC": {
-      "imageUrlIndexes": [1]
-    },
-    "B0080XN2PO": {
-      "agegroup": "toddler"
-    },
-    "B00UM2J52U": {
-      "agegroup": "toddler"
     }
   }
 }

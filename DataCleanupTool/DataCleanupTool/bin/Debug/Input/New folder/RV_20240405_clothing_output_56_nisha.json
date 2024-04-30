@@ -1,0 +1,122 @@
+{
+    "itemsForDeletion": [
+        "B0143S3ZW4", 
+        "B01AW1T8L8",
+        "B01E551XGU",
+        "B00XV0O8I6",
+        "B01B92IXCY",
+        "B01AW1TQM4",
+        "B00I7QR6EM",
+        "B00MXUIOF8"
+    ],
+    "itemsToBeModified": {
+        "B00WNDDD2Y": {},
+        "B00TP3UNO6": {},
+        "B01BLVYQG0": {},
+        "B00SHKM19I": {},
+        "B00GTDILV2": {},
+        "B009F0IOU4": {},
+        "B00NXOG1N0": {},
+        "B004LO1Z96": {},
+        "B00D49N6LY": {},
+        "B01ACTPYGI": {},
+        "B004IUNI52": {},
+        "B018RO3PNE": {},
+        "B00W5PP9RW": {},
+        "B0143VKIZS": {
+            "productType": "mens underwear" 
+        },
+        "B00K0TANL2": {
+            "productType": "mens underwear" 
+        },
+        "B00BYKBPNG": {
+            "imageUrlIndexes": [0,1,2]
+        },
+        "B007ILGJCC": {},
+        "B01AW1T5DE": {},
+        "B00JAFWC1G": {},
+        "B00IN9BMKW": {},
+        "B00OBQTUKK": {},
+        "B00JLEM3J2": {},
+        "B005BG2KB0": {},
+        "B00O593Z3G": {},
+        "B017AG0AWY": {},
+        "B00G9CSP5A": {},
+        "B00LF6RJHK": {},
+        "B004CSLTWE": {},
+        "B00O1RKC6U": {},
+        "B007ERG2RC": {},
+        "B016VI4J1K": {},
+        "B00GUKL7W4": {},
+        "B018M0L2H4": {
+            "imageUrlIndexes": [
+                0,2
+            ]
+        },
+        "B017J8UN98": {},
+        "B0186R7WDQ": {}
+    },
+    "B00AR4X844": {
+        "imageUrlIndexes": [
+            1,2,3
+        ]
+    },
+    "B00DRGAO2S": {
+        "imageUrlIndexes": [
+            2,3
+        ]
+    },
+    "B00VFSCVEY": {
+        "imageUrlIndexes": [
+            1,2,3
+        ]
+    },
+    "B014B4VPUE": {
+        "productType": "mens underwear"
+    },
+    "B00FM6FTHG": {
+        "imageUrlIndexes": [
+            0,2
+        ]
+    },
+    "B0074WSUQI": {
+        "imageUrlIndexes": [
+            1
+        ]
+    },
+    "B015EPI5G6": {
+        "imageUrlIndexes": [
+           0
+        ]
+    },
+    "B004BSWRT4": {
+        "imageUrlIndexes": [
+          1
+        ]
+    },
+    "B00NAA04SK": {
+        "imageUrlIndexes": [
+            0,1
+        ]
+    },
+    "B0063LYIAS": {
+        "imageUrlIndexes": [
+            1
+        ]
+    },
+    "B0002T6GWU": {
+        "imageUrlIndexes": [
+            0
+        ]
+    },
+    "B01B3R509O": {
+        "imageUrlIndexes": [
+            2,3
+        ]
+    },
+    "B00L2O4TLY": {
+        "imageUrlIndexes": [
+            0,1
+        ]
+    }
+}

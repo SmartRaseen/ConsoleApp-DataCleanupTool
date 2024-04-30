@@ -1,0 +1,4 @@
+﻿FileName,ProductName,Key,Value,Validation
+RV_20240405_clothing_output_50_sudipta.json,B00I84FOHE,Valid keys,Valid values,Valid
+RV_20240405_clothing_output_50_sudipta.json,B0189EBMZU,Valid keys,Valid values,Valid
+RV_20240405_clothing_output_50_sudipta.json,B00C7DVZZC,agegroup,Invalid property 'agegroup' found for product B00C7DVZZC,Error

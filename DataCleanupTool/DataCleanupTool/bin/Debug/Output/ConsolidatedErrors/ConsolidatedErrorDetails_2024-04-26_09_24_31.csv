@@ -1,0 +1,19 @@
+﻿FileName,ProductName,Key,Value,Validation
+Input\RV_20240404_clothing_output_50_Nisha.json,B014IODINE,itemsToBeModified,This 'B014IODINE' product have duplicates in 'itemsToBeModified' fileName: 'Input\RV_20240404_clothing_output_50_Nisha.json',Error
+Input\RV_20240405_clothing_output_56_nisha.json,B00W5PP9RW,itemsToBeModified,This 'B00W5PP9RW' product have duplicates in 'itemsToBeModified' fileName: 'Input\RV_20240405_clothing_output_56_nisha.json',Error
+RV_20240404_clothing_output_50_Nisha.json,B005SB1R80,itemsForDeletion,This 'B005SB1R80' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240404_clothing_output_50_Nisha.json',Error
+RV_20240404_clothing_output_50_Nisha.json,B009LLC0PM,itemsForDeletion,This 'B009LLC0PM' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240405_clothing_output_50_sudipta.json',Error
+RV_20240404_clothing_output_50_Nisha.json,B0006FTCHG,itemsForDeletion,This 'B0006FTCHG' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240405_clothing_output_56_nisha.json',Error
+RV_20240404_clothing_output_50_Nisha.json,B005SB1R80,itemsForDeletion,This 'B005SB1R80' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240404_clothing_output_50_Nisha.json',Error
+RV_20240404_clothing_output_50_Nisha.json,B00C7DVZZC,itemsToBeModified,This 'B00C7DVZZC' product have duplicates in 'itemsToBeModified' fileName: 'RV_20240405_clothing_output_50_sudipta.json',Error
+RV_20240404_clothing_output_50_Nisha.json,B01BFB45GW,itemsToBeModified,This 'B01BFB45GW' product have duplicates in 'itemsToBeModified' fileName: 'RV_20240405_clothing_output_56_nisha.json',Error
+RV_20240405_clothing_output_50_sudipta.json,B009LLC0PM,itemsForDeletion,This 'B009LLC0PM' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240404_clothing_output_50_Nisha.json',Error
+RV_20240405_clothing_output_50_sudipta.json,B00C7DVZZC,itemsToBeModified,This 'B00C7DVZZC' product have duplicates in 'itemsToBeModified' fileName: 'RV_20240404_clothing_output_50_Nisha.json',Error
+RV_20240405_clothing_output_56_nisha.json,B01AW1T8L8,itemsForDeletion,This 'B01AW1T8L8' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240405_clothing_output_56_nisha.json',Error
+RV_20240405_clothing_output_56_nisha.json,B0006FTCHG,itemsForDeletion,This 'B0006FTCHG' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240404_clothing_output_50_Nisha.json',Error
+RV_20240405_clothing_output_56_nisha.json,B01AW1T8L8,itemsForDeletion,This 'B01AW1T8L8' product have duplicates in 'itemsForDeletion' fileName: 'RV_20240405_clothing_output_56_nisha.json',Error
+RV_20240405_clothing_output_56_nisha.json,B01BFB45GW,itemsToBeModified,This 'B01BFB45GW' product have duplicates in 'itemsToBeModified' fileName: 'RV_20240404_clothing_output_50_Nisha.json',Error
+RV_20240404_clothing_output_50_Nisha.json,B014IODINE,gender,Invalid gender value 'other' found for the product 'B014IODINE',Error
+RV_20240405_clothing_output_50_sudipta.json,B00C7DVZZC,agegroup,Invalid property 'agegroup' found for product B00C7DVZZC,Error
+RV_20240405_clothing_output_56_nisha.json,B0143VKIZS,productType,Invalid productType value 'mens underwear' found for the product 'B0143VKIZS',Error
+RV_20240405_clothing_output_56_nisha.json,B01BFB45GW,productType,Invalid productType value 'mens underwear' found for the product 'B01BFB45GW',Error
